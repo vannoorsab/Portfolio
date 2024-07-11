@@ -104,8 +104,8 @@ section{
 }
 .home-img img{
   transition: transform 0.5s ease;
-  transform: scale(1.2);
-  width: 18vw;
+  transform: scale(1);
+  width: 10vw;
 } 
 .home-content h3{
   font-size: 3.2rem;
