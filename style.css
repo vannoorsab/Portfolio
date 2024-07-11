@@ -105,7 +105,7 @@ section{
 .home-img img{
   transition: transform 0.5s ease;
   transform: scale(1);
-  width: 10vw;
+  width: 12vw;
 } 
 .home-content h3{
   font-size: 3.2rem;
